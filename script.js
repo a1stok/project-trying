@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const numberOfFilms = +prompt("how many movies have you watched?","");
 const personalMovieDB = {
      count : numberOfFilms,
@@ -22,3 +23,8 @@ personalMovieDB.movies[d]=c;
 console.log(personalMovieDB);
 console.log(numberOfFilms);
 alert(numberOfFilms);
+=======
+"use strict";
+const rsult =confirm("did you do it?");
+console.log(result);
+>>>>>>> 9ac898fd1b651d9219921f62aab4b00730b361b1
